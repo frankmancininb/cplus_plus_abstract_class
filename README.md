@@ -1,0 +1,1 @@
+# cplus_plus_abstract_class
